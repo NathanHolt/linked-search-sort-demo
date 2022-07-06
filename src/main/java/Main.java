@@ -18,7 +18,6 @@ public class Main {
         }
 
 
-
         int sorted[] = {2,3,4,10,40};
         int x = 10;
 
